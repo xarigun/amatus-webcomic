@@ -75,16 +75,13 @@ Stories where beauty, violence, obsession, and love intertwine.
 - cinematic framing
 - strong internal monologue and dialogue
 
-## Official links
+## Official Links
 
-Add your official links here:
-
-- Official website:
-- Webtoon:
-- Tapas:
-- Patreon:
-- Instagram:
-- TikTok:
+- Webtoon: [Read on Webtoon](https://www.webtoons.com/en/canvas/amatus/list?title_no=979998)
+- Tapas: [Read on Tapas](https://tapas.io/series/AMATUS)
+- Patreon: [Support the author](https://www.patreon.com/c/XARIGUN)
+- Instagram: [Follow on Instagram](https://instagram.com/xarigun)
+- TikTok: [Watch edits on TikTok](https://www.tiktok.com/@xarigun)
 
 ## Author
 
