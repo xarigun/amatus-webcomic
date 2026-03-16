@@ -2,61 +2,93 @@
 <html>
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>AMATUS</title>
 
 <style>
 body{
-background:#0b0b0b;
-color:white;
-font-family:Arial, sans-serif;
-text-align:center;
-padding-top:80px;
+  margin:0;
+  background: radial-gradient(circle at top, #1a1a1a, #000);
+  color:white;
+  font-family: Arial, sans-serif;
+  text-align:center;
+  padding:40px 18px 60px;
+}
+
+.container{
+  max-width:520px;
+  margin:0 auto;
 }
 
 h1{
-font-size:48px;
-letter-spacing:4px;
+  font-size:52px;
+  letter-spacing:4px;
+  margin:28px 0 12px;
 }
 
 .subtitle{
-color:#aaa;
-margin-bottom:50px;
+  color:#b5b5b5;
+  margin-bottom:34px;
+  font-size:18px;
+  line-height:1.5;
 }
 
 .link{
-display:block;
-width:260px;
-margin:12px auto;
-padding:14px;
-background:#1c1c1c;
-border-radius:8px;
-text-decoration:none;
-color:white;
-font-size:16px;
-transition:0.2s;
+  display:block;
+  width:100%;
+  box-sizing:border-box;
+  margin:14px auto;
+  padding:18px 20px;
+  background:#1c1c1c;
+  border-radius:14px;
+  text-decoration:none;
+  color:white;
+  font-size:20px;
+  transition:0.2s;
+  box-shadow:0 4px 20px rgba(0,0,0,0.4);
 }
 
 .link:hover{
-background:#333;
-transform:scale(1.03);
+  background:#2a2a2a;
+  transform:translateY(-2px);
+}
+
+.footer{
+  margin-top:36px;
+  font-size:13px;
+  color:#777;
+}
+
+@media (max-width: 480px){
+  h1{
+    font-size:46px;
+    letter-spacing:3px;
+  }
+
+  .subtitle{
+    font-size:16px;
+  }
+
+  .link{
+    font-size:18px;
+    padding:17px 16px;
+  }
 }
 </style>
 </head>
 
 <body>
+  <div class="container">
+    <h1>AMATUS</h1>
+    <p class="subtitle">A psychological dark romance webcomic by Xarigun</p>
 
-<h1>AMATUS</h1>
-<p class="subtitle">A psychological dark romance webcomic by Xarigun</p>
+    <a class="link" href="https://www.webtoons.com/en/canvas/amatus/list?title_no=979998">📖 Read on Webtoon</a>
+    <a class="link" href="https://tapas.io/series/AMATUS">📚 Read on Tapas</a>
+    <a class="link" href="https://www.patreon.com/c/XARIGUN">🖤 Support on Patreon</a>
+    <a class="link" href="https://www.tiktok.com/@xarigun">🎬 Watch on TikTok</a>
+    <a class="link" href="https://instagram.com/xarigun">🕊 Follow on Instagram</a>
 
-<a class="link" href="https://www.webtoons.com/en/canvas/amatus/list?title_no=979998">📖 Read on Webtoon</a>
-
-<a class="link" href="https://tapas.io/series/AMATUS">📚 Read on Tapas</a>
-
-<a class="link" href="https://www.patreon.com/c/XARIGUN">🖤 Support on Patreon</a>
-
-<a class="link" href="https://www.tiktok.com/@xarigun">🎬 Watch on TikTok</a>
-
-<a class="link" href="https://instagram.com/xarigun">🕊 Follow on Instagram</a>
-
+    <p class="footer">© Xarigun</p>
+  </div>
 </body>
 </html>
