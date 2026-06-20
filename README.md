@@ -80,8 +80,8 @@ Stories where beauty, violence, obsession, and love intertwine.
 - Webtoon: [Read on Webtoon](https://www.webtoons.com/en/canvas/amatus/list?title_no=979998)
 - Tapas: [Read on Tapas](https://tapas.io/series/AMATUS)
 - Patreon: [Support the author](https://www.patreon.com/c/XARIGUN)
-- Instagram: [Follow on Instagram](https://instagram.com/xarigun)
-- TikTok: [Watch edits on TikTok](https://www.tiktok.com/@xarigun)
+- Instagram: [Follow on Instagram](https://instagram.com/xarigun.comic)
+- TikTok: [Watch edits on TikTok](https://youtube.com/@xarigun)
 
 ## Author
 
