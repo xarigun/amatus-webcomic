@@ -81,7 +81,7 @@ Stories where beauty, violence, obsession, and love intertwine.
 - Tapas: [Read on Tapas](https://tapas.io/series/AMATUS)
 - Patreon: [Support the author](https://www.patreon.com/c/XARIGUN)
 - Instagram: [Follow on Instagram](https://instagram.com/xarigun.comic)
-- TikTok: [Watch edits on TikTok](https://youtube.com/@xarigun)
+- TikTok: [Watch edits on YouTube](https://youtube.com/@xarigun)
 
 ## Author
 
